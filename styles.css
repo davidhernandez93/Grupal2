@@ -10,7 +10,3 @@ body{
     border-color: lightslategray;
     padding: 10%;
 }
-
-p > creditos {
-    text-align: right;
-}
